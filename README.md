@@ -17,4 +17,8 @@ I am designing/leading my own primary research project (under the guidance of Dr
 •Derive an ML classifier to classify injured brains from healthy ones using graph theoretical metrics as features <br />
 
 
+### The majority of my online-publishable work on the project currently resides in 'T1_CBF_GraphExploration.ipynb'.
+
+<i>Note: image files, CONN extraction, and MATLAB extraction processes not uploaded here to protect privacy of HIPAA protected patient information. All data comes from real subjects.</i>
+
 If you have any questions about this project, would like to use/modify my code for a project you are working on, or would otherwise like to get in contact with me, my email is: danielfrees@g.ucla.edu
