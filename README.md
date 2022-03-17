@@ -17,7 +17,7 @@ I am designing/leading my own primary research project (under the guidance of Dr
 •Derive an ML classifier to classify injured brains from healthy ones using graph theoretical metrics as features <br />
 
 
-### The majority of my online-publishable work on the project currently resides in 'T1_CBF_GraphExploration.ipynb'.
+### The majority of my online-publishable work on the project currently resides in 'T1_Explore.ipynb'.
 
 <i>Note: image files, CONN extraction, and MATLAB extraction processes not uploaded here to protect privacy of HIPAA protected patient information. All data comes from real subjects.</i>
 
